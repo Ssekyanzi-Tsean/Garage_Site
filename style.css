@@ -1,3 +1,6 @@
+body {
+  background-color: #333;
+}
 .headie_one {
   color: blue;
 }
@@ -25,8 +28,18 @@
   color: #4169e1;
   float: right;
   font-size: 1rem;
+  padding: 10px, 10px, 10px, 10px;
 }
-img {
+.land img {
   height: 600px;
   width: 1278px;
+  padding: 10px, 10px, 10px, 10px;
+  float: left;
+  resize: none;
+  vertical-align: middle;
+  margin: 10px 0px;
+}
+.intro p {
+  width: 500px;
+  padding: auto;
 }

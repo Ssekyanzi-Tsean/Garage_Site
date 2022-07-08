@@ -1,5 +1,7 @@
 body {
   background-color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #ddd;
 }
 .headie_one {
   color: blue;
@@ -42,4 +44,14 @@ body {
 .intro p {
   width: 500px;
   padding: auto;
+  margin: 100px 0px;
+  padding: 10px, 10px, 10px, 10px;
+  position: relative;
+  top: 70px;
+}
+.intro iframe {
+  float: right;
+  position: relative;
+  bottom: 310px;
+  right: 100px;
 }
